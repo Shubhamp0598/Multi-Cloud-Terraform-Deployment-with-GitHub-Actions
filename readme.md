@@ -27,20 +27,23 @@ Ensure you have the following:
 ```bash
 git clone https://github.com/Pranav-Saraswat/Multi-Cloud-Terraform-Deployment-with-GitHub-Actions.git
 cd Multi-Cloud-Terraform-Deployment-with-GitHub-Actions
+```
 
 ### 2. Configure AWS and GCP Credentials
 
 ## AWS
 
 Setup your AWS credentials using the AWS CLI:
+
 ```bash
 aws configure
-
+````
 ## GCP
 
 Download your GCP service account key and export it
+
 ```bash
 export GOOGLE_APPLICATION_CREDENTIALS="/path/to/service-account.json"
+```
 
-
-#### need to add more information will add later on this project is in WIP
+### need to add more information will add later on this project is in WIP
