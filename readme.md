@@ -1,5 +1,13 @@
 # 🚀 Automated Multi-Cloud Deployment with Terraform, AWS, and GCP
 
+![MultiDeployment](https://raw.githubusercontent.com/Pranav-Saraswat/Multi-Cloud-Terraform-Deployment-with-GitHub-Actions/master/multideployment.png)
+
+[![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?style=flat&logo=terraform)](https://www.terraform.io/)
+[![AWS S3](https://img.shields.io/badge/Storage-AWS%20S3-orange?style=flat&logo=amazonaws)](https://aws.amazon.com/s3/)
+[![GCP Storage](https://img.shields.io/badge/Storage-GCP%20Cloud%20Storage-red?style=flat&logo=googlecloud)](https://cloud.google.com/storage/)
+[![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?style=flat&logo=githubactions)](https://github.com/features/actions)
+
+
 This project automates the deployment of cloud infrastructure across **AWS** and **GCP** using **Terraform** and **GitHub Actions**. The setup enables Infrastructure as Code (IaC) for seamless cloud resource provisioning.
 
 ---
@@ -221,4 +229,3 @@ This project is licensed under the **MIT License**.
 
 ## **📱 Contact**
 For any issues, open an **issue** on GitHub.
-
